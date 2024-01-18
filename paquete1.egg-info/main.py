@@ -1,10 +1,4 @@
-import setup
+from paquete.modulo1 import Cliente
+from paquete.modulo2 import *
 
-def main(datos):
-   def  agregar_datos(datos):
-
-    print(datos)
-
-    if __name__ =="_main_":
-    
-       main()
+Cliente1 = Cliente ("Emanuel","Rivas","watermelon 1564","1155648484")
