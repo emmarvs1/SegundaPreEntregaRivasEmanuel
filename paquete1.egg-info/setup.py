@@ -6,7 +6,7 @@ setup(
     description="proyecto python Coderhouse",
     author="Emanuel Rivas",
     author_email="emanuelrrivas@hotmail.com",
-    url="https://github.com/emmarvs1/Python-CoderHouse",
+    url="https://github.com/emmarvs1/SegundaPreEntregaRivasEmanuel",
     packages=["mi_proyecto"],
     install_requires=[
         'setuptools',
